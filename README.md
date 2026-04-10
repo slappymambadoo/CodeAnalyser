@@ -1,3 +1,6 @@
+![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 # CodeAnalyser
 
 **AI-powered code analyzer that generates honest portfolio skill reports. No CV inflation. Just what the code actually shows.**
