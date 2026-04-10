@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.log
+auto_gen_*.md
+auto_gen_*.json
+files_to_analyze.txt
+included.md
+excluded.md
+*.pdf
+.DS_Store
