@@ -37,6 +37,7 @@ python agent_folder_analyze.py /path/to/your/code --force
 
 # Generate global summary with PDF
 python Global_Analyzer.py /path/to/analyzed/root --pdf
+
 Configuration
 Edit the script to customize exclusions, LLM endpoint, and context window.
 
